@@ -1,0 +1,11 @@
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/bin/Debug/netcoreapp2.0/Linq.deps.json
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/bin/Debug/netcoreapp2.0/Linq.runtimeconfig.json
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/bin/Debug/netcoreapp2.0/Linq.runtimeconfig.dev.json
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/bin/Debug/netcoreapp2.0/Linq.dll
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/bin/Debug/netcoreapp2.0/Linq.pdb
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.csprojResolveAssemblyReference.cache
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.csproj.CoreCompileInputs.cache
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.AssemblyInfoInputs.cache
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.AssemblyInfo.cs
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.dll
+/Users/Andriana/Desktop/C#/practice/Linq/Linq/obj/Debug/netcoreapp2.0/Linq.pdb

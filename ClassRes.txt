@@ -1,0 +1,14 @@
+Minimal occupation in hours:
+2
+Maximal occupation in hours:
+4
+Maximal occupation year:
+2017
+Sum of occupations for all years:
+Occpation : 2 ,Id: 678987
+Occpation : 3 ,Id: 543456
+Occpation : 4 ,Id: 676765
+Count of mount
+Id : 543456 ,Occpation: 1
+Id : 676765 ,Occpation: 1
+Id : 678987 ,Occpation: 1
